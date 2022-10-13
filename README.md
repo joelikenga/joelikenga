@@ -1,4 +1,4 @@
-joelikenga
+### `@joelikenga`
 - 👋 Hi, I’m @joelikenga
 - 👀 I’m interested and open to all learning and self-developing opportunities
 - 🌱 I’m currently learning to be better each day
