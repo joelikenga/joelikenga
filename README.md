@@ -1,7 +1,6 @@
 ### `@joelikenga`
 - 👋 Hi, I’m @joelikenga
-- 👀 I’m interested and open to all learning and self-developing opportunities
-- 🌱 I’m currently learning to be better each day
+- 👀 I’m interested and open to all self-development opportunities
 - 💞️ I’m looking to collaborate on programming related projects with mostly but not limited to javascript
 - 📫 You can reach me on all media platforms @joelikenga
 
